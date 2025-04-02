@@ -12,3 +12,5 @@ tornado==6.4.2
 tzdata==2025.1
 tzlocal==5.3
 urllib3==1.26.18
+requests>=2.26.0
+firebase-admin>=6.0.0
